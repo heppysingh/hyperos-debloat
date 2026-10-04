@@ -2,6 +2,9 @@ pm uninstall --user 0 cn.wps.moffice_eng
 pm uninstall --user 0 cn.wps.xiaomi.abroad.lite
 pm uninstall --user 0 com.alibaba.aliexpresshd
 pm uninstall --user 0 com.amazon.appmanager
+pm uninstall --user 0 com.indus.appstore
+pm uninstall --user 0 com.google.android.videos
+
 pm uninstall --user 0 com.amazon.fv
 pm uninstall --user 0 com.amazon.kindle
 pm uninstall --user 0 com.amazon.mp3
@@ -31,7 +34,7 @@ pm uninstall --user 0 com.fugo.wow
 pm uninstall --user 0 com.funtomic.matchmasters
 pm uninstall --user 0 com.gameduell.tarot
 pm uninstall --user 0 com.google.android.apps.books
-pm uninstall --user 0 com.google.android.apps.docs
+
 pm uninstall --user 0 com.google.android.apps.magazines
 pm uninstall --user 0 com.google.android.apps.plus
 pm uninstall --user 0 com.google.android.apps.subscriptions.red
