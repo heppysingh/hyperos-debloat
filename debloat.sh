@@ -4,11 +4,14 @@ pm uninstall --user 0 com.alibaba.aliexpresshd
 pm uninstall --user 0 com.amazon.appmanager
 pm uninstall --user 0 com.indus.appstore
 pm uninstall --user 0 com.google.android.videos
-
+pm uninstall --user 0 com.google.android.apps.messaging
+pm uninstall --user 0 com.xiaomi.smarthome
 pm uninstall --user 0 com.amazon.fv
 pm uninstall --user 0 com.amazon.kindle
+pm uninstall --user 0 com.mi.global.shop
 pm uninstall --user 0 com.amazon.mp3
 pm uninstall --user 0 com.amazon.mshop.android
+pm uninstall --user 0 com.miui.miservice
 pm uninstall --user 0 com.amazon.mshop.android.shopping
 pm uninstall --user 0 com.amazon.venezia
 pm uninstall --user 0 com.android.providers.downloads.ui
