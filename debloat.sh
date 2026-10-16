@@ -1,3 +1,5 @@
+
+pm uninstall --user 0 com.mi.globalminusscreen
 pm uninstall --user 0 cn.wps.moffice_eng
 pm uninstall --user 0 cn.wps.xiaomi.abroad.lite
 pm uninstall --user 0 com.alibaba.aliexpresshd
